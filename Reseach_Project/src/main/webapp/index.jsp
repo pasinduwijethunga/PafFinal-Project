@@ -10,7 +10,7 @@
 <title>Project Details</title>
 <link rel="stylesheet" href="Views/bootstrap.min.css">
 <script src="Components/jquery.min.js"></script>
-<script src="Components/doctor.js"></script>
+<script src="Components/project.js"></script>
 <script src="Components/jquery.min.js"></script>
 <link rel="stylesheet" href="assets">
 <link rel="stylesheet" href="Views/bootstrap.min.css">
